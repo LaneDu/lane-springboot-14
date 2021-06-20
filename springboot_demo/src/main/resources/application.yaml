@@ -1,0 +1,11 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /springboot
+person:
+  family: [大木博士2,小智妈妈2]
+  hobby: [吃饭2,睡觉2,去吧皮卡丘2]
+  map: {k1: v1,k2: v2}
+  name: 小智2
+  pet: {name: 皮卡丘,type: 老鼠}
+  id: 2

@@ -1,0 +1,26 @@
+2021-04-20 15:54:38.630 [main] INFO com.lagou.LogbackTest - Starting LogbackTest using Java 11.0.10 on LanedeMacBook-Pro.local with PID 25108 (started by dulane in /Volumes/workspace/startspace/springboot_demo)
+2021-04-20 15:54:38.631 [main] DEBUGcom.lagou.LogbackTest - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-04-20 15:54:38.635 [main] INFO com.lagou.LogbackTest - No active profile set, falling back to default profiles: default
+2021-04-20 15:54:40.273 [main] INFO com.lagou.config.DevTools - guava-jar classLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15
+2021-04-20 15:54:40.274 [main] INFO com.lagou.config.DevTools - Devtools ClassLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15
+2021-04-20 15:54:40.829 [main] INFO o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 15:54:41.220 [main] INFO com.lagou.LogbackTest - Started LogbackTest in 3.086 seconds (JVM running for 4.323)
+2021-04-20 15:54:41.522 [main] TRACEcom.lagou.LogbackTest - trace 日志、、、、、、、
+2021-04-20 15:54:41.522 [main] DEBUGcom.lagou.LogbackTest - debug 日志、、、、、、、
+2021-04-20 15:54:41.523 [main] INFO com.lagou.LogbackTest - info 日志、、、、、、、
+2021-04-20 15:54:41.523 [main] WARN com.lagou.LogbackTest - warn 日志、、、、、、、
+2021-04-20 15:54:41.523 [main] ERRORcom.lagou.LogbackTest - error 日志、、、、、、、
+2021-04-20 15:54:41.538 [SpringContextShutdownHook] INFO o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 16:23:21.563 [main] INFO com.lagou.LogbackTest - Starting LogbackTest using Java 11.0.10 on LanedeMacBook-Pro.local with PID 25621 (started by dulane in /Volumes/workspace/startspace/springboot_demo)
+2021-04-20 16:23:21.575 [main] DEBUGcom.lagou.LogbackTest - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-04-20 16:23:21.578 [main] INFO com.lagou.LogbackTest - No active profile set, falling back to default profiles: default
+2021-04-20 16:23:23.678 [main] INFO com.lagou.config.DevTools - guava-jar classLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15
+2021-04-20 16:23:23.678 [main] INFO com.lagou.config.DevTools - Devtools ClassLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15
+2021-04-20 16:23:24.261 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 16:23:24.673 [main] INFO com.lagou.LogbackTest - Started LogbackTest in 3.597 seconds (JVM running for 5.328)
+2021-04-20 16:23:25.034 [main] TRACEcom.lagou.LogbackTest - trace 日志、、、、、、、
+2021-04-20 16:23:25.034 [main] DEBUGcom.lagou.LogbackTest - debug 日志、、、、、、、
+2021-04-20 16:23:25.034 [main] INFO com.lagou.LogbackTest - info 日志、、、、、、、
+2021-04-20 16:23:25.034 [main] WARN com.lagou.LogbackTest - warn 日志、、、、、、、
+2021-04-20 16:23:25.035 [main] ERRORcom.lagou.LogbackTest - error 日志、、、、、、、
+2021-04-20 16:23:25.051 [SpringContextShutdownHook] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
