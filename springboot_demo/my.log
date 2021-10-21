@@ -24,3 +24,45 @@
 2021-04-20 16:23:25.034 [main] WARN com.lagou.LogbackTest - warn 日志、、、、、、、
 2021-04-20 16:23:25.035 [main] ERRORcom.lagou.LogbackTest - error 日志、、、、、、、
 2021-04-20 16:23:25.051 [SpringContextShutdownHook] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-21 13:56:13.252 [restartedMain] INFO com.SpringbootDemoApplication - Starting SpringbootDemoApplication using Java 11.0.10 on LanedeMacBook-Pro.local with PID 18772 (/Users/dulane/workspace/startspace/lane-springboot-14/springboot_demo/target/classes started by dulane in /Users/dulane/workspace/startspace/lane-springboot-14/springboot_demo)
+2021-10-21 13:56:13.264 [restartedMain] INFO com.SpringbootDemoApplication - No active profile set, falling back to default profiles: default
+2021-10-21 13:56:13.305 [restartedMain] INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-21 13:56:13.306 [restartedMain] INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-21 13:56:14.876 [restartedMain] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-10-21 13:56:14.891 [restartedMain] INFO org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-10-21 13:56:14.892 [restartedMain] INFO org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-10-21 13:56:15.002 [restartedMain] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springboot] - Initializing Spring embedded WebApplicationContext
+2021-10-21 13:56:15.003 [restartedMain] INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1695 ms
+2021-10-21 13:56:15.089 [restartedMain] INFO com.lagou.config.DevTools - guava-jar classLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17
+2021-10-21 13:56:15.090 [restartedMain] INFO com.lagou.config.DevTools - Devtools ClassLoader: org.springframework.boot.devtools.restart.classloader.RestartClassLoader@4a9a6ce1
+2021-10-21 13:56:15.374 [restartedMain] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-21 13:56:15.613 [restartedMain] INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-10-21 13:56:15.667 [restartedMain] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/springboot'
+2021-10-21 13:56:15.679 [restartedMain] INFO com.SpringbootDemoApplication - Started SpringbootDemoApplication in 3.036 seconds (JVM running for 3.973)
+2021-10-21 13:57:47.839 [http-nio-8081-exec-3] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springboot] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-21 13:57:47.839 [http-nio-8081-exec-3] INFO org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-10-21 13:57:47.840 [http-nio-8081-exec-3] INFO org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-10-21 13:58:08.111 [Thread-5] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-21 13:58:08.191 [restartedMain] INFO com.SpringbootDemoApplication - Starting SpringbootDemoApplication using Java 11.0.10 on LanedeMacBook-Pro.local with PID 18772 (/Users/dulane/workspace/startspace/lane-springboot-14/springboot_demo/target/classes started by dulane in /Users/dulane/workspace/startspace/lane-springboot-14/springboot_demo)
+2021-10-21 13:58:08.192 [restartedMain] INFO com.SpringbootDemoApplication - No active profile set, falling back to default profiles: default
+2021-10-21 13:58:08.836 [restartedMain] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-10-21 13:58:08.837 [restartedMain] INFO org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-10-21 13:58:08.837 [restartedMain] INFO org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-10-21 13:58:08.845 [restartedMain] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springboot] - Initializing Spring embedded WebApplicationContext
+2021-10-21 13:58:08.845 [restartedMain] INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 651 ms
+2021-10-21 13:58:08.857 [restartedMain] INFO com.lagou.config.DevTools - guava-jar classLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17
+2021-10-21 13:58:08.857 [restartedMain] INFO com.lagou.config.DevTools - Devtools ClassLoader: org.springframework.boot.devtools.restart.classloader.RestartClassLoader@15cde1b2
+2021-10-21 13:58:08.930 [restartedMain] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-21 13:58:09.012 [restartedMain] INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-10-21 13:58:09.038 [restartedMain] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/springboot'
+2021-10-21 13:58:09.043 [restartedMain] INFO com.SpringbootDemoApplication - Started SpringbootDemoApplication in 0.897 seconds (JVM running for 117.34)
+2021-10-21 13:58:09.044 [restartedMain] INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-10-21 13:58:27.096 [SpringContextShutdownHook] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-21 14:02:15.857 [main] INFO com.lagou.SpringBootDemoApplicationTest - Starting SpringBootDemoApplicationTest using Java 11.0.10 on LanedeMacBook-Pro.local with PID 19075 (started by dulane in /Users/dulane/workspace/startspace/lane-springboot-14/springboot_demo)
+2021-10-21 14:02:15.866 [main] DEBUGcom.lagou.SpringBootDemoApplicationTest - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-10-21 14:02:15.869 [main] INFO com.lagou.SpringBootDemoApplicationTest - No active profile set, falling back to default profiles: default
+2021-10-21 14:02:17.497 [main] INFO com.lagou.config.DevTools - guava-jar classLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15
+2021-10-21 14:02:17.498 [main] INFO com.lagou.config.DevTools - Devtools ClassLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15
+2021-10-21 14:02:17.971 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-21 14:02:18.325 [main] INFO com.lagou.SpringBootDemoApplicationTest - Started SpringBootDemoApplicationTest in 2.894 seconds (JVM running for 4.339)
+2021-10-21 14:02:18.752 [SpringContextShutdownHook] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

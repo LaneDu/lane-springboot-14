@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class DemoController {
+    //http://localhost:8081/springboot/demo
     @RequestMapping("/demo")
     public String demoTest(){
 
